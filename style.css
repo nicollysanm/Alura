@@ -2,5 +2,8 @@ body{
     font-family: "Playfair Display", serif;
     background-color: black;
     color: palevioletred;
+    margem: 50 
 }
 
+.chamada {background-color: azure;
+}
