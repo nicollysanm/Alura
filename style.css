@@ -1,9 +1,9 @@
 body{
     font-family: "Playfair Display", serif;
     background-color: black;
-    color: palevioletred;
+    color: rgb(240, 38, 105);
     margem: 50 
 }
 
-.chamada {background-color: azure;
+.chamada {background-color: rgb(20, 211, 211);
 }
